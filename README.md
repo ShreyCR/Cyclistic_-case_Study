@@ -1,4 +1,4 @@
-# Cyclistic_-case_Study
+# Cyclistic_case_Study
 This repository serves as a part of the capstone project for Google's Data Analytics Professional Certificate Program.
 
 Cyclistic a bike company in Chicago operates as the main subject of this case study.
