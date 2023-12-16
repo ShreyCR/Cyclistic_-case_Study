@@ -5,3 +5,6 @@ Cyclistic a bike company in Chicago operates as the main subject of this case st
 The company has a clear goal to design marketing strategies to understand how casual and annual members use the Cyclistic bikes differently. From the insights gathered in this project the team will design marketing strategies that will help in converting casual riders to annual members.
 
 As a junior data analyst working under Cyclistic's marketing team in Chicago, this assignment involves understanding,cleaning ,preprocessing, exxploring , analysing and visualizing relevant data to identify trends that will assist the marketing team to gather relevelant uncovered insights and present the findings and counsel to the company director and executives.
+
+Have a look at the visualizations on Looker Studio
+https://lookerstudio.google.com/reporting/4c64356b-f5c6-4d5a-ab6d-42f83d980dbf
