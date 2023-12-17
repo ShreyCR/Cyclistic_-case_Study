@@ -7,4 +7,4 @@ The company has a clear goal to design marketing strategies to understand how ca
 As a junior data analyst working under Cyclistic's marketing team in Chicago, this assignment involves understanding,cleaning ,preprocessing, exxploring , analysing and visualizing relevant data to identify trends that will assist the marketing team to gather relevelant uncovered insights and present the findings and counsel to the company director and executives.
 
 Have a look at the visualizations on Looker Studio
-https://lookerstudio.google.com/reporting/4c64356b-f5c6-4d5a-ab6d-42f83d980dbf
+https://lookerstudio.google.com/reporting/d31f5800-fbe1-44f4-9460-a0c94056572c
